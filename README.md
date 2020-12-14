@@ -14,7 +14,7 @@ Following the CRISP-DM methodology, I tried to find insights and build two model
 
 2. Most common `amenities` available and how they attract bookings;  
 
-3. Build a ML model that predicts property `price` based on the most popular and common features of the listings
+3. Build an ML model that predicts property `price` based on the most popular and common features of the listings
 
 4. Correlation heatmap for some of the most prominent `features_of_interest`;
 
