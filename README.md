@@ -4,7 +4,7 @@
 
 ## Motivation
 
-This project is part of Udacity Data Science Nanodegree program. Here, I analyzed the Airbnb Boston Listings dataset from 2019, which includes descriptions of amenities, location, and price for each listing. As part of the program, I also wrote a blog post on the findings. You can find it on Medium.com
+This project is part of Udacity Data Science Nanodegree program. Here, I analyzed the Airbnb Boston Listings dataset from 2019, which includes descriptions of amenities, location, and price for each listing. As part of the program, I also wrote a blog post on the findings. You can find it on https://oliviacarrubba.medium.com/predicting-airbnb-prices-in-boston-with-machine-learning-other-insights-132f51c6251d. 
 
 ## Objectives
 
