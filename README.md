@@ -18,7 +18,7 @@ Following the CRISP-DM methodology, I tried to find insights and build two model
 
 4. Correlation heatmap for some of the most prominent `features_of_interest`;
 
-5. `price` spreads based on location: evenly or unevenly?; 
+5. `price` changes based on location: uniformly or not??; 
 
 6. Build a linear regression model that explains to what extent distance from Boston downtown predicts variations in property `price`.
 
@@ -48,9 +48,6 @@ and Bed & Breakfast. However, results show that Private Room type is preferred o
 5. `price` does not necessarily evenly spread, as in decreasing, from Boston downtown outwards;
 
 6. The model has an R squared value of 0.23, meaning that 23% of the variation in the prices is explained alone by the distance from Boston downtown. More specifically, for each kilometer distance from downtown, the property price drops around 15 USD. 
-
-
-
 
 
 
